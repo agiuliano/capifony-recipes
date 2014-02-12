@@ -49,7 +49,3 @@ You can also add a custom folder:
 ```ruby
 set :parameters_dir, "app/config"
 ```
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/agiuliano/capifony-recipes/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
